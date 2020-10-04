@@ -1,6 +1,6 @@
 # Modern-Sidebar
 
-This repository contains responsive animated sidebar!
+This repository contains responsive animated sidebar.
 
 Designed on HTML, CSS & JavaScript.
 
